@@ -1,0 +1,12 @@
+.box {
+  height: 111px;
+  width: 1000px;
+  background-color: #000000;
+}
+.box div {
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
